@@ -8,3 +8,5 @@ env/
 
 # Environment variables
 .env
+*.7z
+*.zip
